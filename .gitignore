@@ -1,0 +1,10 @@
+# virtual env
+/venv
+
+#  ECG data
+/data
+
+# custom
+playground.ipynb
+/checkpoints
+/.mypy_cache
