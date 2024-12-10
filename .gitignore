@@ -5,6 +5,5 @@
 /data
 
 # custom
-playground.ipynb
 /checkpoints
 /.mypy_cache
